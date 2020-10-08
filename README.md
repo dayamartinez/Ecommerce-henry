@@ -2,12 +2,16 @@
 
 Tecnologias utilizadas:
 
+	HTML
+	CSS
 	Javascript
 	React
 	Redux
 	Bootstrap
 	Nodejs
 	Sequelize (ORM)
+	Express
+	Passport
 	PostgreSQL
 
 Para levantar el proyecto: 
