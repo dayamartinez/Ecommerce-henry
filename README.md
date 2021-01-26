@@ -30,8 +30,8 @@ Para precargar los datos del catalogo, hacer una peticion get a:
 	localhost:3002/test/load
 
 La cuenta del administrador es:
-	email: hola@gmail.com Password: 1234PruebatName:
 	
+	email: hola@gmail.com Password: 1234PruebatName:	
 	se levanta haciendo un get a  http://localhost:3002/userAdmin
 	
 
